@@ -1,0 +1,7 @@
+birth_year = input("Enter The year you were born")
+# User is prompted to input the year of their birth
+Current_year = 2022
+# the current year does not need to be changed as its type is integer
+print(Current_year - int(birth_year))  # birth year variable needs to be changed to integer as it cannot be combined with a different type
+# user enter the year and the computer subtracts year ny the user input prompt
+
